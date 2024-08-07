@@ -4,7 +4,8 @@ import { useState } from 'react'
 import PricingCards from './PricingCards'
 
 const Pricing = ({ className = 'pt-150', showPricingText = true, largeTitle = false, pricingDescription = false }) => {
-  const [isAnnual, setIsAnnual] = useState(true)
+  // const [isAnnual, setIsAnnual] = useState(true)
+  const isAnnual = true
   return (
     <section className={cn('relative -z-0 overflow-hidden bg-white pb-150 dark:bg-dark-300 max-md:mb-25', className)}>
       <div className="container">
