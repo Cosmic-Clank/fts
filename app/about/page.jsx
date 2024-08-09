@@ -20,8 +20,8 @@ const About = () => {
       <main>
         <PageHero
           subtitle="ABOUT COMPANY"
-          title="The future of business is being <br> shaped by aplio"
-          paragraph="Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin, though it looks like it"
+          title="Shaping the Future of Technology with FTS"
+          paragraph="At FTS, we're redefining how businesses leverage technology"
         />
         <AboutDetails />
         <PaymentFeatures
@@ -33,8 +33,8 @@ const About = () => {
         <AboutCoreValue />
         <TestimonialSlider />
         <Counter />
-        <TeamMembers />
-        <CallToAction title="Start your best payment experience now!" />
+        {/* <TeamMembers /> */}
+        <CallToAction title="Start Your Best Technology Experience Today!" />
       </main>
       <Footer />
     </>

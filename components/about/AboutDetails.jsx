@@ -23,18 +23,16 @@ const AboutDetails = () => {
           <div className="max-md:col-span-full md:col-span-6">
             <div className="max-w-[550px]">
               <p className="section-tagline">Numbers</p>
-              <h2>More than 10 years experience in this industry</h2>
+              <h2>Delivering Excellence in AI and Web Solutions</h2>
             </div>
           </div>
           <div className="max-w-[590px] py-10 max-md:col-span-full md:col-span-6">
             <p>
-              Lorem ipsum dolor sit amet consectetur. Nulla lobortis lacus nunc pulvinar amet. Id dignissim ipsum quis
-              varius. Accumsan ultricies dapibus rutrum parturient mauris at est habitasse.
+              At Faieq Technology Solutions, our focus is on providing top-notch AI and web development services. We are
+              dedicated to creating innovative solutions that enhance business performance and drive growth. Our
+              approach combines advanced technology with strategic insight to deliver impactful results.
               <br />
               <br />
-              Risus egestas neque. Nunc diam arcu purus egestas at dignissim nunc. In nec donec sed pretium donec eros
-              elementum. Nec bibendum vel odio convallis feugiat viverra rhoncus in risus. Pretium ante nibh morbi sed
-              consequat sem quam pharetra. Et cursus mattis senectus aliquet.
             </p>
           </div>
         </div>

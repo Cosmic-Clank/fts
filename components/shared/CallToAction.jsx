@@ -13,7 +13,8 @@ const CallToAction = ({ title }) => {
         <div className=" mx-auto text-center">
           <h2 className="mx-auto mb-5 max-w-[800px] text-[48px] font-semibold max-lg:text-[32px]">{title}</h2>
           <p className="mx-auto mb-12 max-w-[400px] max-lg:mt-6">
-            By creating a custom Web design for your business, we can bring your vision to life.
+            Whether you're looking to enhance your digital presence or leverage advanced technology, our team is here to
+            help you every step of the way.
           </p>
           <Link href="/contact" className="btn">
             Get Started Today

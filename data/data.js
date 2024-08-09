@@ -988,21 +988,21 @@ export const AboutFeaturesData = [
     iconLight: '/images/about/passion.svg',
     iconDark: '/images/about/passion-dark.svg',
     title: 'Our Passion',
-    desc: 'The prevailing view asumed lorem ipsum was born as nonsense text.',
+    desc: 'At Faieq Technology Solutions, our passion lies in transforming ideas into cutting-edge technology. We are driven by the excitement of solving complex problems through innovative AI and web solutions.',
   },
   {
     id: 2,
     iconLight: '/images/about/transparency.svg',
     iconDark: '/images/about/transparency-dark.svg',
     title: 'Transparency',
-    desc: 'The prevailing view asumed lorem ipsum was born as nonsense text.',
+    desc: "At Faieq Technology Solutions, transparency is at the heart of everything we do. We believe in clear, open communication and delivering solutions that meet our clients' needs without hidden surprises.",
   },
   {
     id: 3,
     iconLight: '/images/about/mission.svg',
     iconDark: '/images/about/mission-dark.svg',
     title: 'Our Mission',
-    desc: 'The prevailing view asumed lorem ipsum was born as nonsense text.',
+    desc: 'At Faieq Technology Solutions, our mission is to empower businesses through innovative AI and web development solutions. We strive to deliver cutting-edge technology that drives growth, enhances efficiency, and solves complex challenges.',
   },
 ]
 

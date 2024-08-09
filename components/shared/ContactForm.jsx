@@ -17,9 +17,11 @@ const ContactForm = () => {
         animate={controlAnimation}
         variants={fadeUpAnimation}>
         <div className="mx-auto mb-12 max-w-[475px] text-center">
-          <p className="section-tagline">Contact</p>
-
-          <h2>Let us know how we can assist you</h2>
+          <h2 className="mb-2">Contact Us</h2>
+          <p className="section-tagline">Contact our team for assistance</p>
+          <p className="section-tagline">
+            Reach out to our team for assistance. Get a free consultation and product demos by contacting us today.
+          </p>
         </div>
         <div className="relative z-10 mx-auto max-w-[850px]">
           <div className="absolute left-1/2 top-1/2 -z-10 flex -translate-x-1/2 -translate-y-1/2 max-lg:max-w-full max-md:hidden">
