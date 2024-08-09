@@ -6,7 +6,7 @@ import CallToAction from '@/components/shared/CallToAction'
 import Counter from '@/components/shared/Counter'
 import PageHero from '@/components/shared/PageHero'
 import PaymentFeatures from '@/components/shared/PaymentFeatures'
-import TeamMembers from '@/components/shared/TeamMembers'
+// import TeamMembers from '@/components/shared/TeamMembers'
 import TestimonialSlider from '@/components/shared/TestimonialSlider'
 import { AboutFeaturesData } from '@/data/data'
 

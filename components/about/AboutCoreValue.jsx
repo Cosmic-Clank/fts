@@ -67,8 +67,8 @@ const AboutCoreValue = () => {
                 </span>
 
                 <span className="dark:text-white">
-                  Client-Centricity: Prioritizing our clients' needs and delivering tailored solutions that drive their
-                  success.
+                  Client-Centricity: Prioritizing our clients&apos; needs and delivering tailored solutions that drive
+                  their success.
                 </span>
               </li>
               <li className="flex items-center gap-x-2 ">
